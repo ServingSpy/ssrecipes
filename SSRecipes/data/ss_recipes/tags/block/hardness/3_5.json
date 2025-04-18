@@ -1,0 +1,18 @@
+{
+    "replace": false,
+    "values": [
+      "minecraft:blast_furnace",
+      "minecraft:dispenser",
+      "minecraft:dropper",
+      "minecraft:furnace",
+      "minecraft:lantern",
+      "minecraft:stonecutter",
+      "minecraft:smoker",
+      "minecraft:lodestone",
+      "minecraft:cobbled_deepslate",
+      "minecraft:deepslate_bricks",
+      "minecraft:deepslate_tiles",
+      "minecraft:polished_deepslate",
+      "minecraft:chiseled_deepslate"
+    ]
+  }

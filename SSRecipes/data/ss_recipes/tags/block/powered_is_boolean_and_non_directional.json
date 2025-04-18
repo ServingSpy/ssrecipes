@@ -1,0 +1,13 @@
+{
+    "values": [
+    "#buttons",
+    "#pressure_plates",
+    "lever",
+    "tripwire_hook",
+    "lightning_rod",
+    "bell",
+    "detector_rail",
+    "activator_rail",
+    "powered_rail"
+]
+}

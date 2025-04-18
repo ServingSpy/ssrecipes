@@ -1,0 +1,22 @@
+{
+    "criteria": {
+      "place_conduit": {
+        "trigger": "minecraft:placed_block",
+        "conditions": {
+          "location": [
+            {
+              "condition": "minecraft:location_check",
+              "predicate": {
+                "block": {
+                  "blocks": "minecraft:conduit"
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "rewards": {
+      "function": "ss_recipes:ss_gen/placed_block/conduit/any_conduit/all_place_any_conduit"
+    }
+  }

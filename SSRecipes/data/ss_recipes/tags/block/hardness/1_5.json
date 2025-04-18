@@ -1,0 +1,24 @@
+{
+    "replace": false,
+    "values": [
+      "minecraft:andesite",
+      "minecraft:blackstone",
+      "minecraft:amethyst_block",
+      "minecraft:amethyst_cluster",
+      "minecraft:large_amethyst_bud",
+      "medium_amethyst_bud",
+      "small_amethyst_bud",
+      "minecraft:budding_amethyst",
+      "minecraft:dripstone_block",
+      "minecraft:pointed_dripstone",
+      "minecraft:polished_blackstone_bricks",
+      "minecraft:gilded_blackstone",
+      "minecraft:infested_deepslate",
+      "#coral_blocks",
+      "minecraft:bookshelf",
+      "minecraft:chiseled_bookshelf",
+      "minecraft:dark_prismarine",
+      "minecraft:diorite",
+      "minecraft:granite"
+    ]
+  }

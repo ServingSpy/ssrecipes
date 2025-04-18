@@ -1,0 +1,22 @@
+{
+    "criteria": {
+      "place_soul_campfire": {
+        "trigger": "minecraft:placed_block",
+        "conditions": {
+          "location": [
+            {
+              "condition": "minecraft:location_check",
+              "predicate": {
+                "block": {
+                  "blocks": "minecraft:soul_campfire"
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "rewards": {
+      "function": "ss_recipes:ss_gen/placed_block/soul_campfire/any_soul_campfire/all_place_any_soul_campfire"
+    }
+  }

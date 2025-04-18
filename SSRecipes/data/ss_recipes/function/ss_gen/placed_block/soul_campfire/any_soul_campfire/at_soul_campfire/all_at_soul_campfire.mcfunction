@@ -1,0 +1,2 @@
+execute as @e[type=marker,tag=ss_recipesSoulCampfireMarker,distance=...01] run return fail
+summon marker ~ ~ ~ {Tags:["ss_recipesSoulCampfireMarker","ss_recipesSoulCampfireFurnaceMarker","ss_recipesMarker"]}

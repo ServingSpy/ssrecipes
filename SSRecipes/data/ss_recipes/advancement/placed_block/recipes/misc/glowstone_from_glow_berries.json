@@ -1,0 +1,43 @@
+{
+    "parent": "minecraft:recipes/root",
+    "criteria": {
+      "has_redstone": {
+        "conditions": {
+          "items": [
+            {
+              "items": "minecraft:redstone"
+            }
+          ]
+        },
+        "trigger": "minecraft:inventory_changed"
+      },
+      "has_glow_berries": {
+        "conditions": {
+          "items": [
+            {
+              "items": "minecraft:glow_berries"
+            }
+          ]
+        },
+        "trigger": "minecraft:inventory_changed"
+      },
+      "has_the_recipe": {
+        "conditions": {
+          "recipe": "ss_recipes:glowstone_from_glow_berries"
+        },
+        "trigger": "minecraft:recipe_unlocked"
+      }
+    },
+    "requirements": [
+      [
+        "has_the_recipe",
+        "has_redstone",
+        "has_glow_berries"
+      ]
+    ],
+    "rewards": {
+      "recipes": [
+        "ss_recipes:glowstone_from_glow_berries"
+      ]
+    }
+  }

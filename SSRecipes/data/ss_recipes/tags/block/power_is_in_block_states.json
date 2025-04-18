@@ -1,0 +1,13 @@
+{
+    "values": [
+    "#ss_recipes:unpowerable_block",
+    "#ss_recipes:definitely_powering_block",
+    "redstone_torch",
+    "#ss_recipes:non_directional_level_power_blocks",
+    "redstone_wire",
+    "#ss_recipes:powered_is_boolean_and_non_directional",
+    "observer",
+    "repeater",
+    "comparator"
+]
+}

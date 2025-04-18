@@ -1,0 +1,11 @@
+execute if items block ~ ~ ~ container.0 fire_coral_fan run return run data modify storage ss:recipes dispenser.place.id set value "minecraft:fire_coral_fan[waterlogged=false]"
+execute if items block ~ ~ ~ container.0 horn_coral_fan run return run data modify storage ss:recipes dispenser.place.id set value "minecraft:horn_coral_fan[waterlogged=false]"
+execute if items block ~ ~ ~ container.0 tube_coral_fan run return run data modify storage ss:recipes dispenser.place.id set value "minecraft:tube_coral_fan[waterlogged=false]"
+execute if items block ~ ~ ~ container.0 brain_coral_fan run return run data modify storage ss:recipes dispenser.place.id set value "minecraft:brain_coral_fan[waterlogged=false]"
+execute if items block ~ ~ ~ container.0 bubble_coral_fan run return run data modify storage ss:recipes dispenser.place.id set value "minecraft:bubble_coral_fan[waterlogged=false]"
+execute if items block ~ ~ ~ container.0 dead_fire_coral_fan run return run data modify storage ss:recipes dispenser.place.id set value "minecraft:dead_fire_coral_fan[waterlogged=false]"
+execute if items block ~ ~ ~ container.0 dead_horn_coral_fan run return run data modify storage ss:recipes dispenser.place.id set value "minecraft:dead_horn_coral_fan[waterlogged=false]"
+execute if items block ~ ~ ~ container.0 dead_tube_coral_fan run return run data modify storage ss:recipes dispenser.place.id set value "minecraft:dead_tube_coral_fan[waterlogged=false]"
+execute if items block ~ ~ ~ container.0 dead_brain_coral_fan run return run data modify storage ss:recipes dispenser.place.id set value "minecraft:dead_brain_coral_fan[waterlogged=false]"
+execute if items block ~ ~ ~ container.0 dead_bubble_coral_fan run return run data modify storage ss:recipes dispenser.place.id set value "minecraft:dead_bubble_coral_fan[waterlogged=false]"
+return 0

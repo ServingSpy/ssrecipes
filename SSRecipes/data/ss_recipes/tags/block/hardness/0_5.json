@@ -1,0 +1,22 @@
+{
+    "values": [
+      "minecraft:brewing_stand",
+      "minecraft:stone_button",
+      "minecraft:cake",
+      "minecraft:coarse_dirt",
+      "#concrete_powder",
+      "minecraft:dirt",
+      "minecraft:dried_kelp_block",
+      "minecraft:hay_block",
+      "minecraft:ice",
+      "minecraft:packed_ice",
+      "minecraft:frosted_ice",
+      "minecraft:lever",
+      "minecraft:magma_block",
+      "minecraft:mud",
+      "minecraft:target",
+      "minecraft:turtle_egg",
+      "minecraft:sniffer_egg",
+      "minecraft:podzol"
+    ]
+  }

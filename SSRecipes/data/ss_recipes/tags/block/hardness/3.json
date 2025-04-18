@@ -1,0 +1,18 @@
+{
+    "replace": false,
+    "values": [
+      "minecraft:beacon",
+      "minecraft:gold_block",
+      "minecraft:lapis_block",
+      "minecraft:coal_ore",
+      "minecraft:copper_block",
+      "minecraft:copper_ore",
+      "minecraft:cut_copper",
+      "minecraft:cut_copper_slab",
+      "minecraft:cut_copper_stairs",
+      "minecraft:copper_grate",
+      "minecraft:copper_bulb",
+      "minecraft:copper_door",
+      "minecraft:copper_trapdoor"
+    ]
+  }

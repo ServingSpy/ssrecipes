@@ -1,0 +1,24 @@
+{
+    "values": [
+      "minecraft:bamboo",
+      "#banners",
+      "minecraft:infested_cobblestone",
+      "minecraft:jack_o_lantern",
+      "minecraft:melon",
+      "dragon_head",
+      "piglin_head",
+      "player_head",
+      "zombie_head",
+      "creeper_head",
+      "dragon_wall_head",
+      "piglin_wall_head",
+      "player_wall_head",
+      "zombie_wall_head",
+      "creeper_wall_head",
+      "minecraft:packed_mud",
+      "minecraft:nether_wart_block",
+      "minecraft:pumpkin",
+      "#all_signs",
+      "minecraft:shroomlight"
+    ]
+  }

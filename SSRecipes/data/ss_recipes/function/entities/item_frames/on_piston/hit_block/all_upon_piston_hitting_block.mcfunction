@@ -1,0 +1,1 @@
+execute if block ~ ~ ~ farmland run setblock ~ ~ ~ dirt

@@ -1,0 +1,12 @@
+{
+    "values": [
+      "minecraft:quartz_block",
+      "minecraft:note_block",
+      "minecraft:quartz_stairs",
+      "minecraft:red_sandstone",
+      "minecraft:red_sandstone_stairs",
+      "minecraft:sandstone",
+      "minecraft:sandstone_stairs",
+      "#wool"
+    ]
+  }

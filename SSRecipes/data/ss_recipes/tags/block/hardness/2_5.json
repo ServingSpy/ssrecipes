@@ -1,0 +1,14 @@
+{
+    "replace": false,
+    "values": [
+      "minecraft:chest",
+      "minecraft:crafting_table",
+      "minecraft:cartography_table",
+      "minecraft:lectern",
+      "minecraft:fletching_table",
+      "minecraft:smithing_table",
+      "minecraft:loom",
+      "minecraft:barrel",
+      "minecraft:trapped_chest"
+    ]
+  }
